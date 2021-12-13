@@ -2313,7 +2313,7 @@ img {
 
 .about-tab-box .tab-title-box ul li a {
     text-align: left;
-    font: 500 1.54em/1em "Open Sans", sans-serif;
+    font: 500 1.40em/1em "Open Sans", sans-serif;
     display: block;
     font-weight: bold;
     color: #242424;
@@ -7345,13 +7345,17 @@ blockquote footer a {
     color: #233859;
 }
 
+p {
+    text-align: justify;
+}
+
 .about-us-section .about-us p {
     margin: 32px 0;
 }
 
 .about-us-section .about-us ul li {
-    font-size: 14px;
-    line-height: 32px;
+    font-size: 10px;
+    line-height: 28px;
     color: #6c6c6c;
 }
 
